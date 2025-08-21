@@ -1,4 +1,6 @@
 .header {
+  z-index: 1;
+  box-sizing: border-box;
   padding: 30px 80px 40px;
   background: center / cover no-repeat #fff url(../images/background_header.svg);
   position: relative;
@@ -33,6 +35,7 @@
 }
 
 .header__image {
+  z-index: -1;
   position: absolute;
   top: 124px;
   right: 5px;
