@@ -2,6 +2,7 @@
   color:#fff;
   background-color: #0a2750;
   padding: 100px 80px 215px;
+  background-image: url(../images/background_recipes.svg);
   background-position: center;
   background-size: cover;
 }
@@ -40,7 +41,7 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-  margin: 20px 0px;
+  margin: 24px 0px;
 }
 
 .recipes__iframe {
